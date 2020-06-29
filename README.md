@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/Wonsski/Shoe-shop-app/master/screenshots/screenshot_1.png" width="280" height="600">
+<img align='left' src="https://raw.githubusercontent.com/Wonsski/Shoe-shop-app/master/screenshots/screenshot_1.png" width="280" height="600">
 <br>
-<img src="https://raw.githubusercontent.com/Wonsski/Shoe-shop-app/master/screenshots/screenshot_2.png" width="280" height="600">
+<img align='right' src="https://raw.githubusercontent.com/Wonsski/Shoe-shop-app/master/screenshots/screenshot_2.png" width="280" height="600">
